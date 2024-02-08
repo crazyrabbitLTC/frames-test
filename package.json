@@ -6,7 +6,7 @@
     "frames",
     "template"
   ],
-  "author": "Milad Nekofar <milad@nekofar.com>",
+  "author": "Dennison prev Milad Nekofar <milad@nekofar.com>",
   "license": "Apache-2.0",
   "scripts": {
     "dev": "pnpm run '/^dev:.*/'",
